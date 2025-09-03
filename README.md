@@ -1,2 +1,6 @@
-# file-host-keeper
-Different cloud storage hosts have shared URLS, but they might expire (e.g. 10 days), but I made python code to keep it alive 24/7 with a simple GET request.
+# random-stuff
+Just simply a random project for some stuff I make. 
+
+## Useragents
+- `useragents.txt` - Mozilla/5.0 Useragents.
+- More Soon!
